@@ -1,0 +1,17 @@
+[
+    {
+    "username": "testdemo@mailinator.com",
+    "password": "Asdfasdf12",
+    "productName": "ZARA COAT 3",
+    "countryName": "ind"
+    },
+
+    {
+        "username": "gopal@mailinator.com",
+        "password": "Asdfasdf12",
+        "productName": "IPHONE 13 PRO",
+        "countryName": "ind"
+    }
+    
+
+]
